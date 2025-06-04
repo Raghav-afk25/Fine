@@ -1,2 +1,1 @@
-tmux python3-pip
 fastapi uvicorn yt-dlp python-multipart
