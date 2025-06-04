@@ -1,0 +1,4 @@
+sudo apt update
+sudo apt install -y ffmpeg
+tmux python3-pip
+fastapi uvicorn yt-dlp python-multipart
